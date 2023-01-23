@@ -17,7 +17,9 @@ Two other neural network approaches were tested: **1D convolution** and **count 
 
 Classes and server integration for RNN model were created simply because, due to a human error, at the beginning only the article titles were used for training and RNN yielded slightly better results on those.
 
-The `Teams` field couldn't be fully used for training. It contained a lot of classes with few examples, which must've been filtered. This could be fixed by either adding more examples of each team or grouping the teams into regions or types by a human specialist. Also the missing fields could be filled in by humans using their knowledge or the internet.
+The `Teams` field couldn't be fully used for training. It contained a lot of classes with few examples, which must've been filtered. This could be fixed by either adding more examples of each team or grouping the teams into regions or types by a human specialist.
+
+You can see the final metrics in [compare.md](./compare.md).
 
 ## Installation
 
