@@ -1,0 +1,4 @@
+MODELS_PATH = "../models"
+
+FIELD_VALUES = {'Gender': ['-', 'Female', 'Male'], 'League': ['-', 'CFL', 'JuCo', 'MLB', 'NAIA', 'NBA', 'NCAA', 'NFL', 'WNBA'], 'Level': ['College', 'Professional'], 'Sport': ['Baseball', 'Basketball', 'Football'], 'Team': ['-', 'Arizona Diamondbacks', 'Boston Red Sox', 'Chicago Cubs', 'Chicago White Sox', 'Connecticut Sun', 'Dallas Cowboys', 'Detroit Lions', 'Green Bay Packers', 'Kansas City Chiefs', 'Los Angeles Dodgers', 'Miami Dolphins', 'New England Patriots', 
+'New York Giants', 'New York Yankees', 'Pittsburgh Steelers', 'Seattle Mariners', 'Texas Rangers', 'University of Alabama', 'University of Arkansas']}
